@@ -4,9 +4,7 @@
 
  <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Help Desk Ticketing System (osticket)</b>
-  - [osTicket: Installing Prerequisites](https://github.com/josuehernandez0/osticket-prereqs)
-  - [osticket: Post-Installation Configuration](https://github.com/josuehernandez0/post-install-config)
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/josuehernandez0/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/josuehernandez0/post-install-config)
