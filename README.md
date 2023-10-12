@@ -1,8 +1,8 @@
 -### Hi there 👋
-<h1>Hi, I'm Josue! An <a href="https://github.com/joshmadakorcc">IT Professional</a> and a <a href="https://www.youtube.com/c/janedoe">YouTuber</a></h1>
+<h1>Hi, I'm Josue! An <a href="https://github.com/Josuehernandez0">IT Professional</a> 
 
 <!--
-**joshmadakorcc/joshmadakorcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Josuehernandez0/Josuehernandez0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 Here are some ideas to get you started:
@@ -10,7 +10,7 @@ Here are some ideas to get you started:
   - [osTicket: Installing Prerequisites](https://github.com/Josuehernandez0/osticket-prereqs)
   - [osticket: Post-Installation Configuration](https://github.com/Josuehernandez0/post-install-config)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring Active Directory](https://github.com/Josuehernandez0/configure-ad)
   - [Inspecting Network Protocols on Azure](https://github.com/Josuehernandez0/azure-network-protols)
 
 - 🔭 I’m currently working on ...
