@@ -1,17 +1,16 @@
--### Hi there 👋
+
 <h1>Hi, I'm Josue! An <a href="https://github.com/Josuehernandez0">IT Professional</a> 
 
-<!--
-**Josuehernandez0/Josuehernandez0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<h2>👨‍💻 Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
+ <h2>👨‍💻 Information Technology Projects:</h2>
+
 - <b>Help Desk Ticketing System (osticket)</b>
-  - [osTicket: Installing Prerequisites](https://github.com/Josuehernandez0/osticket-prereqs)
-  - [osticket: Post-Installation Configuration](https://github.com/Josuehernandez0/post-install-config)
-- <b>Microsoft Azure</b>
-  - [Configuring Active Directory](https://github.com/Josuehernandez0/configure-ad)
-  - [Inspecting Network Protocols on Azure](https://github.com/Josuehernandez0/azure-network-protols)
+  - [osTicket: Installing Prerequisites](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osticket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
