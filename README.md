@@ -10,7 +10,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/josuehernandez0/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/josuehernandez0/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/josuehernandez0/Creating-Resources-Groups-Storage-Accounts-and-Containers)
+  - [Creating Resources Groups, Storage accounts and Containers](https://github.com/josuehernandez0/Creating-Resources-Groups-Storage-Accounts-and-Containers)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/josuehernandez0/azure-network-protocols)
 
 
