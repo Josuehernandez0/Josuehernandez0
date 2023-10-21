@@ -23,4 +23,4 @@
 
 [twitter]: https://twitter.com/Josuehernandez0
 [instagram]: https://www.instagram.com/Josuehernandez0
-[linkedin]: https://linkedin.com/in/Josuehernandez0
+[linkedin]: https://linkedin.com/https://www.linkedin.com/in/josue-hernandez-3657a0113?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
