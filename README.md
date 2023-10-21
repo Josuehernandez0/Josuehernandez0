@@ -12,6 +12,12 @@
 - <b>Microsoft Azure</b>
   - [Creating Resources Groups, Storage accounts and Containers](https://github.com/josuehernandez0/Creating-Resources-Groups-Storage-Accounts-and-Containers)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/josuehernandez0/azure-network-protocols)
+  - [VPN Setup and Usage With Proton VPN](https://github.com/josuehernandez0/VPN-Setup-and-Usage-With-Proton-VPN)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/josuehernandez0/Configuring-On-premises-Active-Directory-within-Azure-VMs)
+  - [Create, Inspect, and Delete DNS A Records and CNAME](https://github.com/josuehernandez0/Create-Inspect-and-Delete-DNS-A-Records-and-CNAME)
+  - [Network File Shares and Permissions](https://github.com/josuehernandez0/Network-File-Shares-and-Permissions)
+    
+
 
 
 
