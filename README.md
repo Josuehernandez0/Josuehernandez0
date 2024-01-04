@@ -17,7 +17,7 @@
   - [Create, Inspect, and Delete DNS A Records and CNAME](https://github.com/josuehernandez0/Create-Inspect-and-Delete-DNS-A-Records-and-CNAME)
   - [Network File Shares and Permissions](https://github.com/josuehernandez0/Network-File-Shares-and-Permissions)
 - <b>AWS</b>
-  - [SSH to EC2 instance with Termius](https://github.com/josuehernandez0/Network-File-Shares-and-Permissions)
+  - [SSH to EC2 instance with Termius](https://github.com/josuehernandez0/SSH-to-EC2-instance-with-Termius )
 
 
 
