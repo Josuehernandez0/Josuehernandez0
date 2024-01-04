@@ -16,7 +16,8 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/josuehernandez0/Configuring-On-premises-Active-Directory-within-Azure-VMs)
   - [Create, Inspect, and Delete DNS A Records and CNAME](https://github.com/josuehernandez0/Create-Inspect-and-Delete-DNS-A-Records-and-CNAME)
   - [Network File Shares and Permissions](https://github.com/josuehernandez0/Network-File-Shares-and-Permissions)
-- <b>AWS</b> 
+- <b>AWS</b>
+  - [SSH to EC2 instance with Termnius](https://github.com/josuehernandez0/Network-File-Shares-and-Permissions)
 
 
 
