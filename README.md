@@ -10,6 +10,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/josuehernandez0/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/josuehernandez0/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [Creating a SIEM with Azure Sentinel to map live Cyber Attacks](https://github.com/josuehernandez0/Creating-a-SIEM-with-Azure-Sentinel-to-map-live-Cyber-Attacks.)
   - [Creating Resources Groups, Storage accounts and Containers](https://github.com/josuehernandez0/Creating-Resources-Groups-Storage-Accounts-and-Containers)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/josuehernandez0/azure-network-protocols)
   - [VPN Setup and Usage With Proton VPN](https://github.com/josuehernandez0/VPN-Setup-and-Usage-With-Proton-VPN)
